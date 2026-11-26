@@ -1,0 +1,234 @@
+{
+  "users": [
+    {
+      "name": "nmbmnb",
+      "email": "ssd@gmail.com",
+      "password": "bnvv",
+      "id": "AlpZPZ1ufZw"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 15",
+      "brand": "Apple",
+      "category": "Mobile",
+      "price": 65000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4dx7qcAHkDFIPRxK6MkuSdT5uQj43U4GBKHd586vt8g&s=10",
+      "description": "Apple iPhone 15 with advanced camera, powerful performance, and stylish design.",
+      "rating": 4.8,
+      "stock": 25,
+      "color": "Black",
+      "warranty": "1 Year",
+      "specifications": [
+        "128GB Storage",
+        "6.1-inch Display",
+        "48MP Camera",
+        "A16 Bionic Chip"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S24",
+      "brand": "Samsung",
+      "category": "Mobile",
+      "price": 55000,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf",
+      "description": "Samsung Galaxy S24 offers excellent display quality, camera performance, and speed.",
+      "rating": 4.7,
+      "stock": 30,
+      "color": "Blue",
+      "warranty": "1 Year",
+      "specifications": [
+        "256GB Storage",
+        "6.2-inch AMOLED Display",
+        "50MP Camera",
+        "Snapdragon Processor"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "MacBook Air M2",
+      "brand": "Apple",
+      "category": "Laptop",
+      "price": 85000,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+      "description": "Apple MacBook Air M2 is a lightweight laptop suitable for work and study.",
+      "rating": 4.9,
+      "stock": 15,
+      "color": "Silver",
+      "warranty": "1 Year",
+      "specifications": [
+        "8GB RAM",
+        "256GB SSD",
+        "13.6-inch Display",
+        "Apple M2 Chip"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Sony WH-1000XM5",
+      "brand": "Sony",
+      "category": "Headphones",
+      "price": 25000,
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b",
+      "description": "Sony wireless headphones provide high-quality sound and noise cancellation.",
+      "rating": 4.6,
+      "stock": 40,
+      "color": "Black",
+      "warranty": "1 Year",
+      "specifications": [
+        "Wireless Bluetooth",
+        "Noise Cancellation",
+        "30 Hours Battery",
+        "Built-in Microphone"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Apple Watch Series 9",
+      "brand": "Apple",
+      "category": "Smartwatch",
+      "price": 35000,
+      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d",
+      "description": "Apple Watch Series 9 helps track daily activities and provides smart notifications.",
+      "rating": 4.7,
+      "stock": 20,
+      "color": "Midnight",
+      "warranty": "1 Year",
+      "specifications": [
+        "Always-On Retina Display",
+        "GPS",
+        "Heart Rate Monitoring",
+        "Water Resistant"
+      ]
+    },
+    {
+  "id": "6",
+  "name": "OnePlus 12",
+  "brand": "OnePlus",
+  "category": "Mobile",
+  "price": 64999,
+  "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97",
+  "description": "OnePlus smartphone with a powerful processor and excellent camera.",
+  "rating": 4.5,
+  "stock": 15,
+  "color": "Green",
+  "warranty": "1 Year",
+  "specifications": {
+    "RAM": "12GB",
+    "Storage": "256GB",
+    "Display": "6.82 inch"
+  }
+},
+{
+  "id": "7",
+  "name": "Dell Inspiron 15",
+  "brand": "Dell",
+  "category": "Laptop",
+  "price": 55999,
+  "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+  "description": "Dell laptop for studying and entertainment.",
+  "rating": 4.3,
+  "stock": 12,
+  "color": "Silver",
+  "warranty": "1 Year",
+  "specifications": {
+    "RAM": "16GB",
+    "Storage": "512GB SSD",
+    "Processor": "Intel Core i5"
+  }
+},
+{
+  "id": "8",
+  "name": "JBL Tune 760NC",
+  "brand": "JBL",
+  "category": "Headphones",
+  "price": 5999,
+  "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+  "description": "Wireless headphones with noise cancellation.",
+  "rating": 4.4,
+  "stock": 20,
+  "color": "Black",
+  "warranty": "1 Year",
+  "specifications": {
+    "Type": "Wireless",
+    "Battery": "35 Hours",
+    "Connectivity": "Bluetooth"
+  }
+},
+{
+  "id": "9",
+  "name": "Samsung Galaxy Watch 6",
+  "brand": "Samsung",
+  "category": "Smartwatch",
+  "price": 18999,
+  "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+  "description": "Smartwatch with fitness tracking and smart notifications.",
+  "rating": 4.5,
+  "stock": 18,
+  "color": "Graphite",
+  "warranty": "1 Year",
+  "specifications": {
+    "Display": "AMOLED",
+    "Connectivity": "Bluetooth",
+    "Battery": "40 Hours"
+  }
+},
+{
+  "id": "10",
+  "name": "HP Pavilion 15",
+  "brand": "HP",
+  "category": "Laptop",
+  "price": 47999,
+  "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+  "description": "HP laptop suitable for everyday computing.",
+  "rating": 4.2,
+  "stock": 10,
+  "color": "Silver",
+  "warranty": "1 Year",
+  "specifications": {
+    "RAM": "8GB",
+    "Storage": "512GB SSD",
+    "Processor": "Intel Core i5"
+  }
+},
+{
+  "id": "11",
+  "name": "Sony WH-CH720N",
+  "brand": "Sony",
+  "category": "Headphones",
+  "price": 8999,
+  "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b",
+  "description": "Wireless noise-cancelling headphones.",
+  "rating": 4.5,
+  "stock": 14,
+  "color": "Black",
+  "warranty": "1 Year",
+  "specifications": {
+    "Type": "Wireless",
+    "Battery": "35 Hours",
+    "Connectivity": "Bluetooth"
+  }
+},
+{
+  "id": "12",
+  "name": "Apple Watch SE",
+  "brand": "Apple",
+  "category": "Smartwatch",
+  "price": 24999,
+"image": "https://media.ldlc.com/r1600/ld/products/00/06/06/51/LD0006065145_0006065150.jpg",
+  "description": "Smartwatch with activity tracking and notifications.",
+  "rating": 4.6,
+  "stock": 12,
+  "color": "Midnight",
+  "warranty": "1 Year",
+  "specifications": {
+    "Display": "Retina",
+    "Connectivity": "Bluetooth",
+    "Battery": "18 Hours"
+  }
+}
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
